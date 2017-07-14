@@ -4,6 +4,9 @@ header{
   text-align: center;
   color: indianred
 }
+main{
+  margin-bottom: 50px;
+}
 
 body{
   background: darksalmon;
