@@ -1,0 +1,26 @@
+header{
+  height: 75px;
+  background: maroon;
+  text-align: center;
+  color: indianred
+}
+
+body{
+  background: darksalmon;
+}
+img{
+  height: 130px;
+  border: 3px solid blue;
+  float: left;
+  margin-right: 20px
+}
+h4{
+  font-size: 20px; 
+}
+section{
+  text align: left;
+  margin-top: 70px;
+}
+li{
+  font-size: 20px;
+}
